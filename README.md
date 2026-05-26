@@ -93,6 +93,12 @@ This repository:
    <summary>Click for more details</summary> 
    In this hands-on session, you will learn how to use ABAP capabilities in SAP Joule for Developers, including predictive code completion, unit test generation for ABAP CDS and ABAP code, and code explanation to speed up your development with ABAP Cloud.
    </details>
+
+- Suggestions if you have further interest (NOT part of the lecture or project work)  
+
+  - [Create, Deploy and Integrate an SAP Fiori elements App into SAP Fiori Launchpad for SAP BTP, ABAP Environment - RAP100](https://developers.sap.com/group.abap-create-fiori-element-btp.html)  
+
+    This can be of interest for students that are more interested in UI related topics. By creating a "real" app you can try out what needs to be done to create and deploy a real SAP Fiori Elements App.
 --- 
 
 ## ✅ Progress Tracker 
