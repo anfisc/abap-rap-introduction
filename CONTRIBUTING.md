@@ -1,0 +1,1 @@
+Only link to learning.sap.com or tutorials.sap.com.

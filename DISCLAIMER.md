@@ -1,0 +1,1 @@
+No SAP proprietary content included. Only links and personal notes.
