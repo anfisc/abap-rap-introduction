@@ -7,7 +7,7 @@
 
 To start with just follow the steps to generate a starter app
 
-[Create Database Table and Generate UI Service](https://developers.sap.com/tutorials/abap-environment-rap100-generate-ui-service.html)
+Hands-on ⌨️: [Create Database Table and Generate UI Service](https://developers.sap.com/tutorials/abap-environment-rap100-generate-ui-service.html)
 
 ---
 
@@ -17,7 +17,7 @@ To start with just follow the steps to generate a starter app
 
 A RAP Business Object supports basic handling of smaller pictures so that they can uploaded in your Fiori Elements UI without the need to implement frontend coding.
 
-[Enhance the Business Object Data Model and Enable OData Streams](https://developers.sap.com/group.abap-build-fiori-element-rap.html)
+Hands-on ⌨️: [Enhance the Business Object Data Model and Enable OData Streams](https://developers.sap.com/group.abap-build-fiori-element-rap.html)
 
 <details>
 <summary>Click her to expand</summary>
@@ -44,7 +44,7 @@ We do not have to implement all valciations
 [Lecture S4D437](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-input-checks-using-validations)
 
 
-[Enhance the Business Object Behavior With Validations](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-input-checks-using-validations)
+Hands-on ⌨️: [Enhance the Business Object Behavior With Validations](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-input-checks-using-validations)
 
 ---
 
@@ -54,15 +54,13 @@ We do not have to implement all valciations
 
 [Setting Values Using Numbering and Determinations](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/setting-values-using-numbering-and-determinations)
 
-Hint for save sequence
-
-https://help.sap.com/docs/abap-cloud/abap-rap/save-sequence-runtime?locale=en-US
+Diagram that depicts the **Save Sequence Runtime** 🪄 :[Save sequence in SAP Online Help](https://help.sap.com/docs/abap-cloud/abap-rap/save-sequence-runtime?locale=en-US)
 
 ### Hands On
 
 In the following exercise *internal early numbering* is added to the behavior of our RAP business object
 
-[RAP 100 - Enhance the Business Object Behavior With Unmanaged Internal Numbering](https://developers.sap.com/tutorials/abap-environment-rap100-early-numbering.html)
+Hands-on ⌨️: [RAP 100 - Enhance the Business Object Behavior With Unmanaged Internal Numbering](https://developers.sap.com/tutorials/abap-environment-rap100-early-numbering.html)
 
 ---
 
