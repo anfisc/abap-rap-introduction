@@ -70,7 +70,7 @@ Exercise can be done as a homework
 
 
 
-Now continue with [RAP Programming](./notes/abap-rap.md).
+Now continue with [RAP Programming](./abap-rap.md).
 
 
 
