@@ -71,6 +71,8 @@ In the following exercise *internal early numbering* is added to the behavior of
 
 Hands-on ⌨️: [RAP 100 - Enhance the Business Object Behavior With Unmanaged Internal Numbering](https://developers.sap.com/tutorials/abap-environment-rap100-early-numbering.html)
 
+Hands-on ⌨️: [Enhance the Business Object Behavior With Determinations](https://developers.sap.com/tutorials/abap-environment-rap100-determination.html)
+
 ---
 
 # RAP100 Intermediate
@@ -87,8 +89,7 @@ Implementation - RAP100
 
 [Enhance the Business Object Behavior With Instance Action](https://developers.sap.com/tutorials/abap-environment-rap100-instance-action.html)
 
-[Enhance the Business Object Behavior With Dynamic Feature Control
-](https://developers.sap.com/tutorials/abap-environment-rap100-dynamic-feature-control.html)
+[Enhance the Business Object Behavior With Dynamic Feature Control](https://developers.sap.com/tutorials/abap-environment-rap100-dynamic-feature-control.html)
 
 ---
 
