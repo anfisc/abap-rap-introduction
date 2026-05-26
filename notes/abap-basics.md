@@ -48,4 +48,31 @@ In Exercise 9 declare a reference variable (suggested name: connection) and use 
 
 ---
 
+### Lesson - Using Encapsulation to Ensure Consistency
+
+In this lesson we again have to perform changes for the tasks being desribed. Instead of using the local class `lcl_connection` we will use the global class  `zcl_connection_##` that has been created beforehand.
+
+**Task 1 – Changes**
+
+You can use the code of the local class `lcl_connection` in the global class `/lrn/cl_s4d400_cls_methods` and replace the definition section and implementation section of your global class `zcl_connection_##` if if you have not performed the lesson before.   
+Otherwise continue with Task 2, make the attributes private and apply the changes to your global class `zcl_connection_##`.
+
+## Unit 4: Reading Data from the Database  
+
+Where the script refers to the local class `lcl_connection`, please use instead with your global class `ZCL_CONNECTION_##` 
+
+## Unit 5: Working with Structured Data Objects
+## Unit 6: Working with Complex Internal Tables
+## Unit 7: Implementing Database Updates Using Business Objects
+Exercise can be done as a home work  
+## Unit 8: Describing the ABAP RESTful Application Programming Model
+Exercise can be done as a homework   
+
+
+
+Now continue with [RAP Programming](./notes/abap-rap.md).
+
+
+
+
 
