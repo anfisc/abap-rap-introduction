@@ -20,9 +20,22 @@ Hands-on RAP100 ⌨️: [Create Database Table and Generate UI Service](https://
 
 ---
 
+## Explain Draft
+
+
+[Understanding the Draft Concept](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/understanding-the-draft-concept)
+
+Demo 
+- Edit an entry
+  - Show content of draft table --> changed entry is in draft table
+  - Show content of active table --> no changes visible
+- Save the changes
+  - Show content of draft table again --> it is empty now
+  - Show content of active table again --> it now shows the changed data  
+
 ## Enhance the UI
 
-### Working with pictures
+### Working with pictures 
 
 A RAP Business Object supports basic handling of smaller pictures so that they can uploaded in your Fiori Elements UI without the need to implement frontend coding.
 
@@ -71,6 +84,8 @@ In the following exercise *internal early numbering* is added to the behavior of
 
 Hands-on ⌨️: [RAP 100 - Enhance the Business Object Behavior With Unmanaged Internal Numbering](https://developers.sap.com/tutorials/abap-environment-rap100-early-numbering.html)
 
+
+
 Hands-on ⌨️: [Enhance the Business Object Behavior With Determinations](https://developers.sap.com/tutorials/abap-environment-rap100-determination.html)
 
 ---
@@ -79,15 +94,21 @@ Hands-on ⌨️: [Enhance the Business Object Behavior With Determinations](http
 
 ---
 
-## Feture control
+## Actions
 
 Lecture
 
-[Implementing Dynamic Feature Control](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-dynamic-feature-control)
+[Defining Actions and Messages](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/defining-actions-and-messages)
 
 Implementation - RAP100
 
 [Enhance the Business Object Behavior With Instance Action](https://developers.sap.com/tutorials/abap-environment-rap100-instance-action.html)
+
+## Dynamic Feature Control 
+
+[Implementing Dynamic Feature Control](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-dynamic-feature-control)
+
+
 
 [Enhance the Business Object Behavior With Dynamic Feature Control](https://developers.sap.com/tutorials/abap-environment-rap100-dynamic-feature-control.html)
 
@@ -97,18 +118,11 @@ Implementation - RAP100
 
 ---
 
-# How the to handle Draft
 
-Use the prepare action to run validations during draft
-
-Use side effects for responsive UI's
-
-
-[Understanding the Draft Concept](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/understanding-the-draft-concept)
 
 ---
 
-# Composite RAP BO's
+# Composite RAP BO's - Optional
 
 ## Slides
 
@@ -134,6 +148,9 @@ Exercise: Check the generated code in RAP200
 [Implementing the Behavior of Composite Business Objects](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-the-behavior-of-composite-business-objects
 )
 
+Use the prepare action to run validations during draft
+
+Use side effects for responsive UI's
 
 
 
