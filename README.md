@@ -74,11 +74,25 @@ This repository:
   
 - RAP - ABAP RESTful Application Programming - basic and intermediate programming
 
-  [RAP Programming](./notes/abap-rap.md)
+  [RAP Programming - Basic](./notes/abap-rap.md)
 
 
-- Beginner learning paths 
+- Suggestions for self study
 
+  - "From scratch development" [AD164: Get started with ABAP Cloud for classic ABAP developers](https://github.com/SAP-samples/teched2025-AD164 )   
+    <details>
+    <summary>Click for more details</summary>  
+    This hands-on script will help you to better understand how the data modelling and implementation is done in the ABAP RESTful Programming Model (RAP). 
+  
+    The hands-on script that was used at SAP Teched 2025 shows nicely how to build a RAP BO “from scratch”. Though there are generators available to perform most of the boiler plate coding it is beneficial for educational reasons to perform these steps at least once manually.   
+    </details> 
+     
+  - "Use of AI -SAP Joule for Developers" [RAP120 - Build SAP Fiori Apps with ABAP Cloud and SAP Joule for developers](https://github.com/SAP-samples/abap-platform-rap120)   
+
+   <details>
+   <summary>Click for more details</summary> 
+   In this hands-on session, you will learn how to use ABAP capabilities in SAP Joule for Developers, including predictive code completion, unit test generation for ABAP CDS and ABAP code, and code explanation to speed up your development with ABAP Cloud.
+   </details>
 --- 
 
 ## ✅ Progress Tracker 
