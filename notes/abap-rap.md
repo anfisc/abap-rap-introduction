@@ -11,6 +11,8 @@ To start with just follow the steps to generate a starter app
 
 A RAP Business Object supports basic handling of smaller pictures so that they can uploaded in your Fiori Elements UI without the need to implement frontend coding.
 
+[Enhance the Business Object Data Model and Enable OData Streams](https://developers.sap.com/group.abap-build-fiori-element-rap.html)
+
 <details>
 <summary>Click her to expand</summary>
 
@@ -40,6 +42,10 @@ We do not have to implement all valciations
 ## Slides
 
 [Setting Values Using Numbering and Determinations](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/setting-values-using-numbering-and-determinations)
+
+Hint for save sequence
+
+https://help.sap.com/docs/abap-cloud/abap-rap/save-sequence-runtime?locale=en-US
 
 ## Hands On
 
