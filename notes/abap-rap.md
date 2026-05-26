@@ -1,13 +1,22 @@
 
 # RAP Basics
 
+In this part of the lecture we will use slides from the course
+
+For the hands-part we will **NOT** work on the tasks listed in S4d437, but we will use the tutorial group [Build an SAP Fiori elements App Using the ABAP RESTful Application Programming Model (RAP) – Beginner RAP100](https://developers.sap.com/group.abap-build-fiori-element-rap.html) instead.  
+
+> 🔔Hint:   
+> The lecturer should import the solution package of this hands-on beforehand. It can then be found in package **ZRAP100_SOL**.
+
 ---
 
 ## Generate UI Service
 
+> As in the last hands-on part of the course **Learning Basic ABAP Programming** we again generate a simple RAP BO based on one table from scratch.
+
 To start with just follow the steps to generate a starter app
 
-Hands-on ⌨️: [Create Database Table and Generate UI Service](https://developers.sap.com/tutorials/abap-environment-rap100-generate-ui-service.html)
+Hands-on RAP100 ⌨️: [Create Database Table and Generate UI Service](https://developers.sap.com/tutorials/abap-environment-rap100-generate-ui-service.html)
 
 ---
 
