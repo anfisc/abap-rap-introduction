@@ -17,10 +17,13 @@ All learning resources referenced here come from:
 - https://tutorials.sap.com
 - https://github.com/SAP-samples/
 
-## ⚠️ Access Requirement 
-Most SAP learning content requires free registration. 
+## ⚠️ Access Requirement  
+
+Most SAP learning content requires free registration.  
+
 👉 You need a **SAP Learning Hub, Student Edition account**: 
 https://learning.sap.com 
+
 ---
 
 # Repository structure
@@ -64,7 +67,7 @@ This repository:
 
 ## 🚀 Topics Covered 
 
-- Onbarding on learning.sap.com
+- Onbarding on learning.sap.com. Click on [onboarding](./notes/onboarding.md) to see a description of the required steps.
 
 - SAP Business Technology Platform, ABAP Environment 
 

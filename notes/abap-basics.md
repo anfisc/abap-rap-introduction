@@ -18,6 +18,16 @@ that means, please add the additional suffix (e.g. `_SRH_ST`) in front of your p
 
 This would result in the following suggestion for a package name `ZS4D400_SRH_ST_##`. 
 
+### 🔔🔔🔔 Create a Github Repository to later  
+
+In *Task 1: Create a Hello World Application* the participants have created a package and a class.
+The content of this package should now be linked with a (private) Github repository.
+The content should be pushed regularly to this repo so that you would be able to revover your developments in case you have to swith the practice system.
+
+Follow this tutorial:
+
+[Push Your ABAP Source Code from SAP BTP, ABAP Environment to a GitHub Repository using abapGit](https://developers.sap.com/tutorials/abap-environment-abapgit-transfer..html)
+
 ---
 ## UNIT 2: Applying Basic Techniques and Concepts
 
