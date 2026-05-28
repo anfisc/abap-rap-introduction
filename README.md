@@ -17,15 +17,15 @@ As hands-on practice are being used:
 
 1. Onbarding on `learning.sap.com`.  
 
-   Click on [onboarding](./notes/onboarding/onboarding.md) to see a description of the required steps.
+   Click on [onboarding](./notes/onboarding/README.md) to see a description of the required steps.
 
 2. ABAP - basic programming
 
-   [ABAP Basic Programming](./notes/abap-basics/abap-basics.md)
+   [ABAP Basic Programming](./notes/abap-basics/README.md)
   
 3. RAP - ABAP RESTful Application Programming - basic and intermediate programming
 
-   [RAP Programming - Basic](./notes/abap-rap/abap-rap.md)
+   [RAP Programming - Basic](./notes/abap-rap/README.md)
 
 
 4. Suggestions for fruther self study (can also be performed as homework depending on the course length)  
