@@ -5,7 +5,9 @@ It is especially mentioned when (that means how many days / weeks / immediately)
 You can skip those steps you have already performed.
 
 
-# 1. Immediately - Apply for an SAP Universal ID
+# Immediately
+
+## 1. Apply for an SAP Universal ID
 
 If you have not applied for an SAP Universal ID, please perform step 1 "Creating your SAP Universal ID (UID)"  as described in the blog post:
 
@@ -13,7 +15,7 @@ If you have not applied for an SAP Universal ID, please perform step 1 "Creating
 
 This step does not take long and you can immediately start with step 2 afterwards.
 
-# 2. Immediately - Register for the free SAP Learning Hub, Student Edition
+## 2. Register for the free SAP Learning Hub, Student Edition
 
 After having created the SAP Universal ID, which only takes a few minutes, you have in addition to register for the free SAP Learning Hub, Student Edition.  
 
@@ -27,16 +29,35 @@ See step 2 "Verify yourself as a student (or faculty)" in the following blog pos
 
 So you should start the registration process for the SAP Learning Hub immediately after having received your SAP Universal ID.
 
-# 3. Get a user in the practice system
+# The week before the lecture (class-room-training) starts
+
+🔔 Please note that the user in the training system is onlv valid up to 21 days.  
+
+Since on the other hand it takes up to 24 hours to get the user created in the backend the enrollment in the practice system should take place in the week b
+
+## 3. Get a user in the practice system
 
 This step is also mandatory.
 
-However,in order to perform it you have have to performed step 1 (Get a universal SAP ID) and step 2 (Get your user confirmed by SheerID) before. 
+In this last step you must enroll for a user in the SAP BTP ABAP Environment Practice System that we are going to use.
 
-In this last step you must enroll for a user in the SAP BTP ABAP Environment System that we are going to use .
+However,in order to perform it you have have to performed step 1 (Get a universal SAP ID) and step 2 (Register for the free SAP Learning Hub, Student Edition) mentioned above. 
 
-🔔 Reminder: Please note that the user in the training system
-is onlv valid up 21 days.
+- Click on [Hands-on Practice System for Basic ABAP Programming](https://learning.sap.com/practice-systems/basic-abap-programming)
+- Click on **Enroll**
+- Write down your **group number** 
+  
+  ![group number](images/get_your_group_number.png)
 
-https://learning.sap.com/practice-systems/intermediate-abap-programming
+- When clicking **Access** you will log on to the SAP Fiori Launchpad of the practice system so that you can retrieve its URL from the browser.  
+  
+
+
+
+
+
+
+
+
+Click on **Access** and note down your group number.
 

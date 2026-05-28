@@ -2,14 +2,73 @@
 
 A curated collection of personal notes, learning paths, and code snippets based on official SAP learning content.
 
-The content is best used as a class-room-style training. 
+⚠️ The content is best used as a **class-room-style** training. 
 
-The notes contain links to the appropriate units of the courses available on learning.sap.com. 
+The notes contain links to the appropriate units of the courses available on `learning.sap.com`. 
 
 As hands-on practice are being used:
 
-- tasks described in the courses on learning.sap.com
-- tutorial(s) published on tutorials.sap.com
+- tasks described in the courses on `learning.sap.com`
+- tutorial(s) published on `tutorials.sap.com`
+
+--- 
+
+## 🚀 Learning Path - Topics Covered 
+
+1. Onbarding on `learning.sap.com`.  
+
+   Click on [onboarding](./notes/onboarding/onboarding.md) to see a description of the required steps.
+
+2. ABAP - basic programming
+
+   [ABAP Basic Programming](./notes/abap-basics/abap-basics.md)
+  
+3. RAP - ABAP RESTful Application Programming - basic and intermediate programming
+
+   [RAP Programming - Basic](./notes/abap-rap/abap-rap.md)
+
+
+4. Suggestions for fruther self study (can also be performed as homework depending on the course length)  
+
+
+   <details>
+   <summary>Click to expand</summary>
+     - "From scratch development" [AD164: Get started with ABAP Cloud for classic ABAP developers](https://github.com/SAP-samples/teched2025-AD164 )   
+       <details>
+       <summary>Click for more details</summary>  
+       This hands-on script will help you to better understand how the data modelling and implementation is done in the ABAP RESTful Programming Model (RAP). 
+  
+       The hands-on script that was used at SAP Teched 2025 shows nicely how to build a RAP BO “from scratch”. Though there are generators available to perform most of the boiler plate coding it is beneficial for educational reasons to perform these steps at least once manually.   
+       </details> 
+     
+     - "Use of AI -SAP Joule for Developers" [RAP120 - Build SAP Fiori Apps with ABAP Cloud and SAP Joule for developers](https://github.com/SAP-samples/abap-platform-rap120)   
+
+      <details>
+       <summary>Click for more details</summary> 
+        In this hands-on session, you will learn how to use ABAP capabilities in SAP Joule for Developers, including predictive code completion, unit test generation for ABAP CDS and ABAP code, and code explanation to speed up your development with ABAP Cloud.
+       </details>  
+
+</details>   
+
+## 🚀 Topics NOT Covered 
+
+Due to time constraints (about 48 hours of lecture) we cannot cover all topics. So here is a list of topics that you might find in the tutorial missions / groups that are not part of the course goal "Basic RAP programming"
+
+  
+
+  - [Create, Deploy and Integrate an SAP Fiori elements App into SAP Fiori Launchpad for SAP BTP, ABAP Environment - RAP100](https://developers.sap.com/group.abap-create-fiori-element-btp.html)  
+
+    This can be of interest for students that are more interested in UI related topics. By creating a "real" app you can try out what needs to be done to create and deploy a real SAP Fiori Elements App.
+--- 
+
+## ✅ Progress Tracker 
+
+- [ ] SAP Business Technology Platform, ABAP Environment
+- [ ] ABAP - basic programming
+- [ ] RAP - ABAP RESTful Application Programming
+  - [ ] basic
+  - [ ] intermediate
+- [ ] Analytics Cloud 
 
 ## 🔗 Official Sources
 All learning resources referenced here come from: 
@@ -63,59 +122,7 @@ This repository:
 - only includes **links and personal notes** 
 - is **not affiliated with SAP** 
 
---- 
 
-## 🚀 Topics Covered 
-
-- Onbarding on learning.sap.com. Click on [onboarding](./notes/onboarding.md) to see a description of the required steps.
-
-- SAP Business Technology Platform, ABAP Environment 
-
-- ABAP - basic programming
-
-  [ABAP Basic Programming](./notes/abap-basics.md)
-  
-- RAP - ABAP RESTful Application Programming - basic and intermediate programming
-
-  [RAP Programming - Basic](./notes/abap-rap.md)
-
-
-- Suggestions for self study
-
-  - "From scratch development" [AD164: Get started with ABAP Cloud for classic ABAP developers](https://github.com/SAP-samples/teched2025-AD164 )   
-    <details>
-    <summary>Click for more details</summary>  
-    This hands-on script will help you to better understand how the data modelling and implementation is done in the ABAP RESTful Programming Model (RAP). 
-  
-    The hands-on script that was used at SAP Teched 2025 shows nicely how to build a RAP BO “from scratch”. Though there are generators available to perform most of the boiler plate coding it is beneficial for educational reasons to perform these steps at least once manually.   
-    </details> 
-     
-  - "Use of AI -SAP Joule for Developers" [RAP120 - Build SAP Fiori Apps with ABAP Cloud and SAP Joule for developers](https://github.com/SAP-samples/abap-platform-rap120)   
-
-   <details>
-   <summary>Click for more details</summary> 
-   In this hands-on session, you will learn how to use ABAP capabilities in SAP Joule for Developers, including predictive code completion, unit test generation for ABAP CDS and ABAP code, and code explanation to speed up your development with ABAP Cloud.
-   </details>
-
-## 🚀 Topics NOT Covered 
-
-Due to time constraints (about 48 hours of lecture) we cannot cover all topics. So here is a list of topics that you might find in the tutorial missions / groups that are not part of the course goal "Basic RAP programming"
-
-- Suggestions if you have further interest (NOT part of the lecture or project work)  
-
-  - [Create, Deploy and Integrate an SAP Fiori elements App into SAP Fiori Launchpad for SAP BTP, ABAP Environment - RAP100](https://developers.sap.com/group.abap-create-fiori-element-btp.html)  
-
-    This can be of interest for students that are more interested in UI related topics. By creating a "real" app you can try out what needs to be done to create and deploy a real SAP Fiori Elements App.
---- 
-
-## ✅ Progress Tracker 
-
-- [ ] SAP Business Technology Platform, ABAP Environment
-- [ ] ABAP - basic programming
-- [ ] RAP - ABAP RESTful Application Programming
-  - [ ] basic
-  - [ ] intermediate
-- [ ] Analytics Cloud 
 
 --- 
 

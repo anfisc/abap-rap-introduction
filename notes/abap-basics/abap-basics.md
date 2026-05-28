@@ -1,12 +1,14 @@
 # ABAP Basics
 
-The first part of the lecture basically makes use of the course [Learning Basic ABAP Programming](https://help.sap.com/docs/abap-cloud/abap-rap/save-sequence-runtime) which is part of the learning offering on https://learning.sap.com.
+The first part of the lecture makes use of the course [Learning Basic ABAP Programming](https://learning.sap.com/courses/basic-abap-programming) which is part of the learning offering on https://learning.sap.com.   
 
-In the following the different units are listed and where applicable it is described where a deviation from the standard lecture has been choosen.
+In the following the different units are listed and where applicable it is described where a deviation from the standard lecture has been choosen.   
 
 ---
 
 ## UNIT 1: Getting Started
+
+Since the [practice system](https://learning.sap.com/practice-systems/basic-abap-programming) which is being 
 
 When creating your package please use the following naming convention
 
