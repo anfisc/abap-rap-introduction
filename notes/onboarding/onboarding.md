@@ -44,8 +44,11 @@ In this last step you must enroll for a user in the SAP BTP ABAP Environment Pra
 However,in order to perform it you have have to performed step 1 (Get a universal SAP ID) and step 2 (Register for the free SAP Learning Hub, Student Edition) mentioned above. 
 
 - Click on [Hands-on Practice System for Basic ABAP Programming](https://learning.sap.com/practice-systems/basic-abap-programming)
-- Click on **Enroll**
-- Write down your **group number** 
+- Click on **Enroll**   
+
+  ![enroll](images/enroll_for_practice_system.png)
+
+- Click on **Access** and note down your **group number**  
   
   ![group number](images/get_your_group_number.png)
 
@@ -59,5 +62,5 @@ However,in order to perform it you have have to performed step 1 (Get a universa
 
 
 
-Click on **Access** and note down your group number.
+
 
