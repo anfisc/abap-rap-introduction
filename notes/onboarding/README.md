@@ -56,7 +56,9 @@ However,in order to perform it you have have to performed step 1 (Get a universa
   
 ---
 
-4. Check your group number
+# During usage
+
+## Check your group number
 
 If you have already a user in the practice system, but have forgot your group number you can easily retrieve it by following these steps:   
 
