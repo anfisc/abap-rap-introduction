@@ -2,7 +2,7 @@
 
 The first part of the lecture makes use of the course [Learning Basic ABAP Programming](https://learning.sap.com/courses/basic-abap-programming) which is part of the learning offering on https://learning.sap.com.   
 
-In the following the different units are listed and where applicable it is described where a deviation from the standard lecture has been choosen.   
+In the following the different units of this course are listed and where applicable it is described where a deviation from the standard lecture and standard tasks have been choosen.   
 
 ---
 

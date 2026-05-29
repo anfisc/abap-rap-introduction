@@ -54,9 +54,25 @@ However,in order to perform it you have have to performed step 1 (Get a universa
 
 - When clicking **Access** you will log on to the SAP Fiori Launchpad of the practice system so that you can retrieve its URL from the browser.  
   
+---
 
+4. Check your group number
 
+If you have already a user in the practice system, but have forgot your group number you can easily retrieve it by following these steps:   
 
+   <details>
+   <summary>Click to expand</summary>
+
+   1. Click on [Hands-on Practice System for Basic ABAP Programming](https://learning.sap.com/practice-systems/basic-abap-programming)   
+   2. Click on **Access**      
+
+      ![Check group number step1](images/check_group_number_001.png)
+
+  3. In the **Get Started** Popup your **Group Number** is shown  
+
+      ![Check group number step2](images/check_group_number_002.png)
+
+   </details>
 
 
 
