@@ -8,7 +8,9 @@ In the following the different units of this course are listed and where applica
 
 ## UNIT 1: Getting Started
 
-Since the [practice system](https://learning.sap.com/practice-systems/basic-abap-programming) which is being 
+Since the [practice system](https://learning.sap.com/practice-systems/basic-abap-programming) which is being used in the course *Learning Basic ABAP Programming* is a **shared** system participants are asked to create their objects with their group id that is being assigned to them when creating the user in practice system.
+
+(Look here to check your group id )
 
 When creating your package please use the following naming convention
 
