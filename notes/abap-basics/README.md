@@ -6,7 +6,11 @@ In the following the different units of this course are listed and where applica
 
 ---
 
-## UNIT 1: Getting Started
+## UNIT 1: Getting Start
+
+[Course: Learning Basic ABAP Programming](https://learning.sap.com/courses/basic-abap-programming) --> Unit 1
+
+### Lesson - Developing Your First ABAP Application
 
 Since the [practice system](https://learning.sap.com/practice-systems/basic-abap-programming) which is being used in the course *Learning Basic ABAP Programming* is a **shared** system participants are asked to create their objects with their group id that is being assigned to them when creating the user in practice system.
 
@@ -16,13 +20,14 @@ When creating your package please use the following naming convention
 
 ZS4D400_<abreviation_for_university>_## 
 
-(So for **SRH University** on the campus **Stuttgart** I suggested to use ZS4D400_SRH_ST_##)
+(where **##** denotes your four-digit group id)
 
-that means, please add the additional suffix (e.g. `_SRH_ST`) in front of your personal suffix **`_##`**.
+(So for **SRH University** on the campus **Stuttgart** I suggested to use the additional suffix  `_SRH_ST` in front of the group number **`_##`**.
 
-This would result in the following suggestion for a package name `ZS4D400_SRH_ST_##`. 
+This would result in the following suggestion for a package name `ZS4D400_SRH_ST_1234` when your group number is `1234`.   
 
-### 🔔🔔🔔 Create a Github Repository to later  
+
+### Additional lesson - ⚠️⚠️⚠️ Create a Github Repository to save your work  
 
 In *Task 1: Create a Hello World Application* the participants have created a package and a class.
 The content of this package should now be linked with a (private) Github repository.
@@ -33,13 +38,18 @@ Follow this tutorial:
 [Push Your ABAP Source Code from SAP BTP, ABAP Environment to a GitHub Repository using abapGit](https://developers.sap.com/tutorials/abap-environment-abapgit-transfer..html)
 
 ---
+
 ## UNIT 2: Applying Basic Techniques and Concepts
+
+[Course: Learning Basic ABAP Programming](https://learning.sap.com/courses/basic-abap-programming) --> Unit 2
 
 ---
 
 ## UNIT 3: Working with Local Classes
 
-Here instead of local classes a global class is being used. 
+[Course: Learning Basic ABAP Programming](https://learning.sap.com/courses/basic-abap-programming) --> Unit 3
+
+⚠️⚠️⚠️ Here instead of local classes a global class is being used. 
 
 
 ### Lesson - Defining a local class  
