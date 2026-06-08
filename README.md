@@ -81,7 +81,7 @@ All learning resources referenced here come from:
 Most SAP learning content requires free registration.  
 
 👉 You need a **SAP Learning Hub, Student Edition account**: 
-https://learning.sap.com 
+https://learning.sap.com/free-student-edition
 
 ---
 

@@ -4,6 +4,7 @@ It is especially mentioned when (that means how many days / weeks / immediately)
 
 You can skip those steps you have already performed.
 
+---
 
 # Immediately
 
@@ -19,21 +20,24 @@ This step does not take long and you can immediately start with step 2 afterward
 
 After having created the SAP Universal ID, which only takes a few minutes, you have in addition to register for the free SAP Learning Hub, Student Edition.  
 
-⚠️ This is a two-step process that can takes up to 72h 
+⚠️ This is a two-step process that can takes up to **72h**.    
 
-- In a first step your student status will be checked by the external service provider SheerID.
-- After this verfication took place you in addition have to wait for the activation e-mail from SAP
-See step 2 "Verify yourself as a student (or faculty)" in the following blog post 
+- In a first step your student status will be checked by the external service provider SheerID.  
+- After this verfication took place you in addition have to wait for the activation e-mail from SAP.  
+--> See step 2 "Verify yourself as a student (or faculty)" in the following blog post 
 
-[Free SAP Certification and practice systems for students & lecturers](https://community.sap.com/t5/beginner-corner-blog-posts/free-sap-certification-and-practice-systems-for-students-amp-lecturers/ba-p/14052493)  
+  [Free SAP Certification and practice systems for students & lecturers](https://community.sap.com/t5/beginner-corner-blog-posts/free-sap-certification-and-practice-systems-for-students-amp-lecturers/ba-p/14052493)  
 
-So you should start the registration process for the SAP Learning Hub immediately after having received your SAP Universal ID.
+⚠️ So you should start the registration process for the SAP Learning Hub immediately after having received your SAP Universal ID.
+
+
+---
 
 # The week before the lecture (class-room-training) starts
 
-🔔 Please note that the user in the training system is onlv valid up to 21 days.  
-
-Since on the other hand it takes up to 24 hours to get the user created in the backend the enrollment in the practice system should take place in the week b
+> 🔔 Please note that the user in the training system is onlv valid up to **21 days**.  
+>   
+> Since on the other hand it takes up to 24 hours to get the user created in the backend, the enrollment in the practice system should take place in the week before the class-room-training starts.
 
 ## 3. Get a user in the practice system
 
@@ -48,7 +52,7 @@ However,in order to perform it you have have to performed step 1 (Get a universa
 
   ![enroll](images/enroll_for_practice_system.png)
 
-- Click on **Access** and note down your **group number**  
+- Click on **Access** and note down your **group number** from the **Get Started** Popup 
   
   ![group number](images/get_your_group_number.png)
 
@@ -62,10 +66,10 @@ However,in order to perform it you have have to performed step 1 (Get a universa
 
 If you have already a user in the practice system, but have forgot your group number you can easily retrieve it by following these steps:   
 
-   <details>
-   <summary>Click to expand</summary>
+   
 
    1. Click on [Hands-on Practice System for Basic ABAP Programming](https://learning.sap.com/practice-systems/basic-abap-programming)   
+
    2. Click on **Access**      
 
       ![Check group number step1](images/check_group_number_001.png)
@@ -74,7 +78,6 @@ If you have already a user in the practice system, but have forgot your group nu
 
       ![Check group number step2](images/check_group_number_002.png)
 
-   </details>
 
 
 
