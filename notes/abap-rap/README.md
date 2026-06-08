@@ -122,7 +122,7 @@ Implementation - RAP100
 
 ---
 
-# Composite RAP BO's - Optional
+# Composite RAP BO's 
 
 ## Slides
 
@@ -140,6 +140,8 @@ Exercise: Run RAP200
 ## Hands-On   
 
 Exercise: Check the generated code in RAP200
+
+https://github.com/SAP-samples/abap-platform-rap200/blob/main/exercises/ex01/README.md
 
 ---
 
