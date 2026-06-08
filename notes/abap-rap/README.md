@@ -114,13 +114,6 @@ Implementation - RAP100
 
 ---
 
-## Unit Tests - Optional
-
----
-
-
-
----
 
 # Composite RAP BO's 
 
@@ -131,17 +124,25 @@ Implementation - RAP100
 
 ## Hands-On 
 
-Exercise: Run RAP200
-
-## Slides
-
-[Defining Compositions in OData UI Services](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/defining-compositions-in-odata-ui-services)
-
-## Hands-On   
-
-Exercise: Check the generated code in RAP200
-
+1. Demo of Exercise 1 of RAP200 (Create a RAP BO (Header/Item) manually using 2 structures as templates)
+2. Run Exericse 1 of RAP 200 yourself
 https://github.com/SAP-samples/abap-platform-rap200/blob/main/exercises/ex01/README.md
+   and check the generated code (tables, cds views, behavior defintion)
+
+
+3. Demo of Exericse 1 of RAP120 (Create nearly the same BO as in Exercise 1, this time using AI)
+4. Run Exericse 1 of RAP 120 yourself
+https://github.com/SAP-samples/abap-platform-rap120/blob/main/exercises/ex01/README.md
+   and check the generated code (tables, cds views, behavior defintion)
+
+- Skip exercise 2&3 of RAP120
+
+5. Demo implementing a validation (showcase predict business logic)
+6. Implement a validation using AI
+   https://github.com/SAP-samples/abap-platform-rap120/tree/main/exercises/ex04
+
+
+
 
 ---
 

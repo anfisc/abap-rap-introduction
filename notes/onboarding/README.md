@@ -79,6 +79,27 @@ If you have already a user in the practice system, but have forgot your group nu
       ![Check group number step2](images/check_group_number_002.png)
 
 
+## Error message 
+
+When working with ADT you might get the following error message:
+
+![error_message_missing_auth](images/error_message_when_trying_access_after_21_days.png)
+
+This is probably because the 21 day period for which your user on the practice system is active has passed.  
+
+When you check your inbox you will proably see a mail like this one
+
+![mail](images/mail_after_21_days.png)   
+
+So you simply have to access the practice system again and to enroll a second time.
+
+https://learning.sap.com/practice-systems/basic-abap-programming
+
+⚠️⚠️⚠️
+Therefore be sure to have the package(s) you use for development connected with a Github repository.  
+
+
+
 
 
 
