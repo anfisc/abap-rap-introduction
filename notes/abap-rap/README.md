@@ -122,7 +122,7 @@ Implementation - RAP100
 
 ---
 
-# Composite RAP BO's - Optional
+# Composite RAP BO's 
 
 ## Slides
 
