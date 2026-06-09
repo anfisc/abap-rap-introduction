@@ -1,9 +1,9 @@
 
 # RAP Basics
 
-In this part of the lecture we will use slides from the course
+In this part of the lecture we will use (_selected_) slides from the course **Building Transactional Apps with the ABAP RESTful Application Programming Model (S4D437)**
 
-For the hands-part we will **NOT** work on the tasks listed in S4d437, but we will use the tutorial group [Build an SAP Fiori elements App Using the ABAP RESTful Application Programming Model (RAP) – Beginner RAP100](https://developers.sap.com/group.abap-build-fiori-element-rap.html) instead.  
+For the hands-part we will **NOT** work on the tasks listed in S4D437, but we will use the tutorial group [Build an SAP Fiori elements App Using the ABAP RESTful Application Programming Model (RAP) – Beginner RAP100](https://developers.sap.com/group.abap-build-fiori-element-rap.html) instead.  
 
 > 🔔Hint:   
 > The lecturer should import the solution package of this hands-on beforehand. It can then be found in package **ZRAP100_SOL**.
@@ -22,10 +22,14 @@ Hands-on RAP100 ⌨️: [Create Database Table and Generate UI Service](https://
 
 ## Explain Draft
 
-
 [Understanding the Draft Concept](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/understanding-the-draft-concept)
 
-Demo 
+Slides of the following sections:
+- Draft Motivation  
+- Draft Tables  
+
+Demo:  
+
 - Edit an entry
   - Show content of draft table --> changed entry is in draft table
   - Show content of active table --> no changes visible
@@ -41,30 +45,21 @@ A RAP Business Object supports basic handling of smaller pictures so that they c
 
 Hands-on ⌨️: [Enhance the Business Object Data Model and Enable OData Streams](https://developers.sap.com/group.abap-build-fiori-element-rap.html)
 
-<details>
-<summary>Click her to expand</summary>
-
-Adjust the data model of the base RAP BO to enable the handling large objects (LOBs, aka OData stream) in your Fiori elements app. By doing that, you will give end-users the option to upload and download images from your Travel app.
-
-The only things you will have to do in the RAP BO, is to specify the appropriate semantics annotations for the relevant fields: Attachment, MimeType, and FileName. You will also have to adjust the UI semantics in the CDS metadata Extension for the appearence in the Travel app.
-
-</details>
-
-
 ### Add Google Like Search  
 
-``@Search.searchable: true``
+Using the annotation ``@Search.searchable: true`` and other `@Seach` annotations a Google Like Search is being added to the RAP BO
 
 ### Add Text
+
+Using associations and appropriate annotations texts such as the name of a customer can be added to the customer id.
 
 ---
 
 ## Validations
 
-We do not have to implement all valciations
-
 [Lecture S4D437](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-input-checks-using-validations)
 
+We do not have to implement all validations since a validation has already been implemented in the ABAP Basics part.
 
 Hands-on ⌨️: [Enhance the Business Object Behavior With Validations](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-input-checks-using-validations)
 
@@ -146,18 +141,5 @@ https://github.com/SAP-samples/abap-platform-rap120/blob/main/exercises/ex01/REA
 
 ---
 
-# Optional - Call composite RAP BO 
 
-[Implementing the Behavior of Composite Business Objects](https://learning.sap.com/courses/building-transactional-apps-with-the-abap-restful-application-programming-model/implementing-the-behavior-of-composite-business-objects
-)
-
-Use the prepare action to run validations during draft
-
-Use side effects for responsive UI's
-
-
-
-
-
-# Composite BO's
 

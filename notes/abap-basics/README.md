@@ -104,6 +104,17 @@ Task 4 - Implement the determination
 Now continue with [RAP Programming](../abap-rap/README.md).
 
 
+# Additional material
+
+## Insert demo data 
+
+[Insert-demo-data](Insert_demo_data.md)
+
+## Publish a read-only report
+
+[Read-only-report](read_only_app.md)
+
+
 
 
 
