@@ -27,3 +27,14 @@ Edit generated metadata extension files
 
 # 6. Add Valuehelp(s)
 
+
+
+
+# 7. Adding fields to the data model
+
+ 1. Add field to the database table
+ 2. Add field to the R-view
+ 3. Add field to the C-view
+ 4. Add field in the mapping of the entity in the BDEF
+ 5. Recreate the draft table 
+ 
