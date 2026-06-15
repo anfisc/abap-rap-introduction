@@ -15,13 +15,16 @@
    | Referenced Object | **`/dmo/flight`** |   
    | Package           | **`<your_package>`** |
 
+   > Hint:  
+   > You can also use the C-view of a RAP BO as a data source to create a read-only view from your data and analyze it.  
+
    ![](images/demo_report_010.png) 
 
-3. Click **Next >** to continue, select a transport request if requested, click **Next >** to continue, select the template **`DefineViewEntity`** under **View (creations)** in the tree, and confirm with **Finish**.
+4. Click **Next >** to continue, select a transport request if requested, click **Next >** to continue, select the template **`DefineViewEntity`** under **View (creations)** in the tree, and confirm with **Finish**.
 
    ![](images/demo_report_020.png)
 
-4. Replace the code with the following coding
+5. Replace the code with the following coding
 
 ```ABAP
 @EndUserText.label: 'Flights with Flight Date Later Than Two Days From Today'
