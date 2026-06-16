@@ -4,6 +4,7 @@
 
 - install ADT
 - install abapGIT Plugin
+- Register for the learninghub offering as a lecturer ![onboarding](/notes/onboarding/README.md)
 
 ---
 

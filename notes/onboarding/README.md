@@ -1,4 +1,6 @@
-In the following the steps to access the learning hub training system are described.
+# Onboarding to the **SAP learning hub, student edition**
+
+In the following the steps to access the SAP learning hub, student edition are described.
 
 It is especially mentioned when (that means how many days / weeks / immediately) these steps have to be performed.
 
@@ -6,9 +8,9 @@ You can skip those steps you have already performed.
 
 ---
 
-# Immediately
+## Stepst that have to be performed immediately
 
-## 1. Apply for an SAP Universal ID
+### 1. Apply for an SAP Universal ID
 
 If you have not applied for an SAP Universal ID, please perform step 1 "Creating your SAP Universal ID (UID)"  as described in the blog post:
 
@@ -16,7 +18,7 @@ If you have not applied for an SAP Universal ID, please perform step 1 "Creating
 
 This step does not take long and you can immediately start with step 2 afterwards.
 
-## 2. Register for the free SAP Learning Hub, Student Edition
+### 2. Register for the free SAP Learning Hub, Student Edition
 
 After having created the SAP Universal ID, which only takes a few minutes, you have in addition to register for the free SAP Learning Hub, Student Edition.  
 
@@ -33,13 +35,13 @@ After having created the SAP Universal ID, which only takes a few minutes, you h
 
 ---
 
-# The week before the lecture (class-room-training) starts
+## Steps that have to be performend in the week before the lecture (class-room-training) starts
 
 > 🔔 Please note that the user in the training system is onlv valid up to **21 days**.  
 >   
 > Since on the other hand it takes up to 24 hours to get the user created in the backend, the enrollment in the practice system should take place in the week before the class-room-training starts.
 
-## 3. Get a user in the practice system
+### 3. Get a user in the practice system
 
 This step is also mandatory.
 
@@ -60,9 +62,9 @@ However,in order to perform it you have have to performed step 1 (Get a universa
   
 ---
 
-# During usage
+## During usage
 
-## Check your group number
+### Check your group number
 
 If you have already a user in the practice system, but have forgot your group number you can easily retrieve it by following these steps:   
 
@@ -79,7 +81,7 @@ If you have already a user in the practice system, but have forgot your group nu
       ![Check group number step2](images/check_group_number_002.png)
 
 
-## Error message 
+### Error message 
 
 When working with ADT you might get the following error message:
 
