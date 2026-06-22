@@ -62,6 +62,14 @@ However,in order to perform it you have have to performed step 1 (Get a universa
   
 ---
 
+### 4. Download ABAP Development Tools in Eclipse
+
+https://developers.sap.com/tutorials/abap-install-adt..html
+
+### 5. Create an ABAP Cloud Project
+
+https://github.com/anfisc/abap-rap-introduction/blob/main/notes/onboarding/create_new_abap_cloud_project.md
+
 ## During usage
 
 ### Check your group number
