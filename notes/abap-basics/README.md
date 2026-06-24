@@ -60,11 +60,11 @@ The content should be pushed regularly to this repo so that you would be able to
 
 (We work with global classes instead !)
 
-Change of **Task 1** 
+Change of **Task 1: Create a Global Class**  
 
-- Name the class to be created not `ZCL_##_LOCAL_CLASS` but `ZCL_##_GLOBAL_CLASS`  
+- Name the class to be created **not** `ZCL_##_LOCAL_CLASS` **but** `ZCL_##_GLOBAL_CLASS`  
 
-Change of **Task 2**: Define a Local Class  
+Change of **Task 2: Define a Local Class**     
 
 - Define a second **global** class **`zcl_connection_##`** (as you did in Task 1) instead of a local class **`lcl_connection`**  
 - Use code snippets provided in the script for **`lcl_connection`** and replace **`lcl_connection`** by **`zcl_connection_##`** where needed
@@ -72,7 +72,80 @@ Change of **Task 2**: Define a Local Class
   Code should look like follows   
   
   ![](images/classes_010.png)  
+  
+  The output should be
 
+  ``` 
+  connection counter: 44   
+  connection counter: 45   
+  connection2 counter: 45   
+  ```  
+
+```ABAP
+CLASS zcl_connection_## DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    DATA carrier_id    TYPE /dmo/carrier_id.
+    DATA connection_id TYPE /dmo/connection_id.
+
+    CLASS-DATA conn_counter TYPE i.
+
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_connection_## IMPLEMENTATION.
+ENDCLASS.
+```
+
+```ABAP
+CLASS zcl_##_global_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+CLASS zcl_##_global_class IMPLEMENTATION.
+
+  METHOD if_oo_adt_classrun~main.
+
+    DATA connection TYPE REF TO zcl_connection_##.
+    DATA connection2 TYPE REF TO zcl_connection_##.
+    DATA counter TYPE i VALUE 44.
+
+    connection = NEW #(  ).
+    connection->carrier_id = 12.
+    connection->connection_id = 4711.
+    connection->conn_counter = counter.
+
+    out->write(  |connection counter: { connection->conn_counter }| ).
+
+    connection2 = NEW #(  ).
+
+    connection2->carrier_id = 13.
+    connection2->connection_id = 4714.
+    counter = counter + 1.
+    connection2->conn_counter = counter .
+
+    out->write(  |connection counter: { connection->conn_counter }| ).
+    out->write(  |connection2 counter: { connection2->conn_counter }| ).
+
+
+  ENDMETHOD.
+ENDCLASS.
+```
 
 ### Lesson - Creating Instances of a Class
 
