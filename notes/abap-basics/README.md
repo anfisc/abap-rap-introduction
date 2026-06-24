@@ -60,10 +60,19 @@ The content should be pushed regularly to this repo so that you would be able to
 
 (We work with global classes instead !)
 
+Change of **Task 1** 
+
+- Name the class to be created not `ZCL_##_LOCAL_CLASS` but `ZCL_##_GLOBAL_CLASS`  
+
 Change of **Task 2**: Define a Local Class  
 
 - Define a second **global** class **`zcl_connection_##`** (as you did in Task 1) instead of a local class **`lcl_connection`**  
 - Use code snippets provided in the script for **`lcl_connection`** and replace **`lcl_connection`** by **`zcl_connection_##`** where needed
+
+  Code should look like follows   
+  
+  ![](images/classes_010.png)  
+
 
 ### Lesson - Creating Instances of a Class
 
