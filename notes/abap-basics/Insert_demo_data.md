@@ -25,9 +25,11 @@ Copy table `/DMO/CONNECTION` and create a new table `ZCONNECTION_##`
 Hint you can ask Joule using the following prompt
 
 “Create a value statement for some data for Zconnection_##”
-DATA lt_connections TYPE TABLE OF zconnection_afi.
+
 
 ```ABAP
+DATA lt_connections TYPE TABLE OF zconnection_afi.
+
 lt_connections = VALUE #(  
   ( client           = '100'
     carrier_id       = 'LH'
