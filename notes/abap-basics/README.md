@@ -33,11 +33,15 @@ In *Task 1: Create a Hello World Application* the participants have created a pa
 The content of this package should now be linked with a (private) Github repository.
 The content should be pushed regularly to this repo so that you would be able to revover your developments in case you have to swith the practice system.
 
-1. Create a personal access token for your Github user.
+1. Install the abapGit plugin
+  
+   (Install the abapGit Plugin | SAP Developer Center)[https://developers.sap.com/tutorials/abap-install-abapgit-plugin]
+
+2. Create a personal access token for your Github user.
 
     [How to create a personal access token in Github](../onboarding/Create_Personal_Access_Token.md)
 
-2. Follow this tutorial to link your ABAP package with your Github repository. Here you will need the personal access token that you have created in the step above:
+3. Follow this tutorial to link your ABAP package with your Github repository. Here you will need the personal access token that you have created in the step above:
 
    [Push Your ABAP Source Code from SAP BTP, ABAP Environment to a GitHub Repository using abapGit](https://developers.sap.com/tutorials/abap-environment-abapgit-transfer..html)
 
