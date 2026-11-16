@@ -35,7 +35,7 @@ The content should be pushed regularly to this repo so that you would be able to
 
 1. Install the abapGit plugin
   
-   (Install the abapGit Plugin | SAP Developer Center)[https://developers.sap.com/tutorials/abap-install-abapgit-plugin]
+   [Install the abapGit Plugin | SAP Developer Center](https://developers.sap.com/tutorials/abap-install-abapgit-plugin)   
 
 2. Create a personal access token for your Github user.
 
